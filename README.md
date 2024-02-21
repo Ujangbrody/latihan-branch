@@ -6,3 +6,5 @@
 # latihan-jadi-collabator
 
 * hai semuanya..
+
+pusing banget1
