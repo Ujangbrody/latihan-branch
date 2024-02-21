@@ -1,4 +1,5 @@
 # latihan-branch
 
 * mencoba update commit di branch development
-* belajar GitHub Seru
+* berusaha belajar konsisten itu susah loh
+
