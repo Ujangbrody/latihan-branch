@@ -8,3 +8,5 @@
 * hai semuanya..
 
 pusing banget1
+
+pusing banget2
