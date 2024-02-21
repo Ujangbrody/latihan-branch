@@ -6,3 +6,4 @@
 # latihan-jadi-collabator
 
 * hai semuanya..
+* halo juga colaborator..
